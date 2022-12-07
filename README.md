@@ -1,11 +1,11 @@
 <div align="center">
 
-# Essa é a continuação do projeto Ifruits.
-<p>Decidi continuar a implementação do projeto, pois existiam implementações que eu gostaria de concluir...</p>
+# Essa é uma continuação do projeto Ifruits.
+<p>Decidi continuar o projeto, pois existiam implementações que eu gostaria de concluir...</p>
 <p>Segue link do repositório do projeto finalizado pelo grupo da turma DH:</p>
 <p>https://github.com/DH-Projeto-Integrador/Projeto-Integrador-DH</p>
 
-# Projeto Ifuits
+# Projeto Ifruits
 
 [![made in brazil](https://img.shields.io/badge/state%20-bulding-009.svg?style=for-the-badge)]() [![made in brazil](https://img.shields.io/badge/made%20in-brazil-008751.svg?style=for-the-badge)](https://www.google.com/maps/place/brazil)
 </div>
